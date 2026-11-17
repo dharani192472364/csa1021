@@ -23,6 +23,5 @@ Department: Computer Science and Engineering
 
 
 This repository contains Software Engineering Laboratory experiments.
-
-
+Collaborative update – Software Engineering Lab.
 
